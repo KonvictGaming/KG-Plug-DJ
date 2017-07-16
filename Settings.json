@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://teamspeak-servers.org/images/site_background.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
