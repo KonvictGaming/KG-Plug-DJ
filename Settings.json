@@ -2,7 +2,7 @@
     "room": "Konvict Gaming Official Plug DJ",
     "author": "Konvict Gaming",
     "icon": "https://pbs.twimg.com/profile_images/738794726514667520/Fc2nFPN8.jpg",
-    "css": null,
+    "css": "Main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
