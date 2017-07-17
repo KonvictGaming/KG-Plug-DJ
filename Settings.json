@@ -2,7 +2,7 @@
     "room": "Konvict Gaming Official Plug DJ",
     "author": "Konvict Gaming",
     "icon": "https://www.konvictgaming.com/data/medal/101_1460975019l.jpg",
-    "css": "https://raw.githubusercontent.com/kvssr/KG-Plug-DJ/master/main.css",
+    "css": "https://raw.githubusercontent.com/KonvictGaming/KG-Plug-DJ/master/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
