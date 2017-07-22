@@ -31,7 +31,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "https://www.cloudynights.com//public/style_images/master/star.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
